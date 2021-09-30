@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+ipynb_checkpoints/
+__pycache__/
+flowers/
+REFERENCE - GITHUB - DELETE LATER/
+test_img/
+vgg16_bn_checkpoint.pth
+log.csv
+caltech101/
+predictions.csv
+Image Classifier Project.ipynb
+assets/
+Image Classifier Project.html
+submission.zip
+goog_img/
+final_neural_network_demo.mov
